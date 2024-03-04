@@ -6,12 +6,15 @@ Ten projekt zawiera autoenkoder, który został wytrenowany na zdjęciach twarzy
 
 Poniżej znajdują się wyniki pokolorowania trzech różnych typów obrazów:
 1. Pokolorowane obrazy ze zbioru uczącego.
+   
 ![Pokolorowane obrazy ze zbioru uczącego](result_images/Images_from_learning_set.png)
 
 2. Pokolorowane obrazy spoza zbioru uczącego.
+   
 ![Pokolorowane obrazy spoza zbioru uczącego](result_images/Images_from_testing_set.png)
 
 3. Pokolorowany obraz o innym rozmiarze niż obrazy ze zbioru uczącego.
+   
 ![Pokolorowany obraz o innym rozmiarze](result_images/Image_with_different_input_size.png)
 
 ## Jak używać
